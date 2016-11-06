@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve"
+><f href="Multiplikatoren-Info_2016_04_19.pdf"
+/><ids original="FB4607F517365A0A6F77D92200DC8BAA" modified="34223F8BDF0D17F871EE468C35F869CA"
+/><annots
+><link Highlight="Invert" page="0" flags="print" name="9973ecda-aa3f-4d9d-b6481d9866bdb455" rect="170.8699,542.6162,178.272,557.275" color="#00FF00" width="0" style="dash" dashes="3,2"
+><Dest
+><XYZ Page="1" Left="57" Top="727"
+/></Dest
+></link
+><polygon interior-color="#32CD32" intent="polygon-dimension" title="Christian" creationdate="D:20160613170032+02'00'" opacity="0.8" subject="Flächenmessung" page="0" date="D:20160613170034+02'00'" flags="print" name="1f633bf4-624d-4897-874a98ecfecf6973" rect="221.825383,469.416412,539.779156,691.849579" color="#FFFFFF"
+><contents
+>45,05 m²</contents
+><vertices
+>313.352542,691.294747;222.645228,609.569012;438.54363,470.110419;538.996358,629.063224</vertices
+></polygon
+><line start="80.961901,433.371327" end="309.604306,431.871773" leaderExtend="5" leaderLength="33.267276" caption="yes" caption-style="Top" intent="LineDimention" head="ClosedArrow" tail="ClosedArrow" title="Christian" creationdate="D:20160613170038+02'00'" subject="Entfernungsmessung" page="0" date="D:20160613170042+02'00'" flags="print" name="844a7eae-96a3-497d-ba8fc8224251e86a" rect="80.180121,431.868486,310.822434,475.981395" color="#FF0000"
+><contents
+>8,06 m</contents
+></line
+><polyline interior-color="#0000FF" head="ClosedArrow" tail="ClosedArrow" intent="polyline-dimension" title="Christian" creationdate="D:20160613170047+02'00'" subject="Umfangsmessung" page="0" date="D:20160613170051+02'00'" flags="print" name="2ca6b3f1-1322-4d82-b872822b93761629" rect="100.81817,578.588124,537.674539,754.79253" color="#0000FF"
+><contents
+>19,99 m</contents
+><vertices
+>104.950613,579.577917;124.441441,715.287623;356.832082,754.276047;536.747417,681.547641</vertices
+></polyline
+></annots
+></xfdf
+>
